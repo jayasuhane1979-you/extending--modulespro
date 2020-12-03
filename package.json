@@ -1,0 +1,15 @@
+{
+  "name": "extending-modulespro",
+  "version": "6.14.8",
+  "description": "",
+  "main": "NodeTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Publish-Firstmodule"
+  },
+  "author": "Jaya1979",
+  "license": "ISC"
+}
